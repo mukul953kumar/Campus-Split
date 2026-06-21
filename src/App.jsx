@@ -105,7 +105,7 @@ export default function App() {
             <div className="w-9 h-9 bg-white/20 backdrop-blur-sm rounded-xl flex items-center justify-center">
               <SplitSquareHorizontal size={20} className="text-white" />
             </div>
-            <span className="font-bold text-white text-lg tracking-tight">Campus Split AI</span>
+            <span className="font-bold text-white text-lg tracking-tight">Campus Split</span>
           </div>
           <div className="flex items-center gap-3">
             {result && (

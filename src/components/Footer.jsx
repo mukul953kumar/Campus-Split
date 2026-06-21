@@ -62,7 +62,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-6 pt-5 border-t border-slate-100 dark:border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-400 dark:text-slate-600">
-          <p>© {new Date().getFullYear()} Campus Split AI. Smart expense splitting for everyone.</p>
+          <p>© {new Date().getFullYear()} Campus Split. Smart expense splitting for everyone.</p>
           <p>Built with React + Vite + Tailwind CSS</p>
         </div>
       </div>

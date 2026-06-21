@@ -1,4 +1,4 @@
-# Campus Split AI
+# Campus Split
 
 **Smart bill splitting for students and friend groups.**
 Calculate GST, tip, and per-person share instantly — with AI-powered insights to help you spend smarter.
@@ -7,7 +7,7 @@ Calculate GST, tip, and per-person share instantly — with AI-powered insights 
 
 ## Live Demo
 
-> Deploy on Vercel — [vercel.com](https://vercel.com)
+> Deploy on Netlify — [netlify.com](https://campussplit.netlify.app/)
 
 ---
 
@@ -86,10 +86,10 @@ public/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/campus-split-ai.git
+git clone https://github.com/mukul953kumar/Campus-Split
 
 # Navigate into the project
-cd campus-split-ai
+cd campus-split
 
 # Install dependencies
 npm install
@@ -110,17 +110,6 @@ npm run build
 
 Output goes to the `dist/` folder. Ready for Vercel deployment.
 
----
-
-## Deploy to Vercel
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com) and click **New Project**
-3. Import your GitHub repository
-4. Leave all settings as default (Vite is auto-detected)
-5. Click **Deploy**
-
-Your app will be live in under a minute.
 
 ---
 
@@ -175,7 +164,7 @@ Errors appear inline below each field with real-time validation on blur.
 
 ## Screenshots
 
-> Add screenshots here after deployment.
+> ![campus split](image.png)
 
 ---
 
@@ -184,8 +173,8 @@ Errors appear inline below each field with real-time validation on blur.
 **Mukul Kumar**
 
 - Email: [mukulkumar953622@gmail.com](mailto:mukulkumar953622@gmail.com)
-- GitHub: [github.com](https://github.com)
-- LinkedIn: [linkedin.com](https://linkedin.com)
+- GitHub: [github.com](https://github.com/mukul953kumar)
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/mukul-kumar-155576329/)
 
 ---
 
