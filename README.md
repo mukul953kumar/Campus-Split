@@ -48,8 +48,8 @@ The AI Insights panel generates smart, context-aware suggestions based on your a
 - **Frontend:** React 19 + Vite 8
 - **Styling:** Tailwind CSS v4
 - **Icons:** Lucide React
-- **Deployment:** Vercel (zero config)
-- **Language:** JavaScript (no TypeScript)
+- **Deployment:** Netlify
+- **Language:** JavaScrip
 
 ---
 
@@ -86,7 +86,7 @@ public/
 
 ```bash
 # Clone the repository
-git clone https://github.com/mukul953kumar/Campus-Split
+git clone https://github.com/mukul953kumar/Campus-Split.git
 
 # Navigate into the project
 cd campus-split
