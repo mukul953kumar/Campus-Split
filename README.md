@@ -7,7 +7,7 @@ Calculate GST, tip, and per-person share instantly — with AI-powered insights 
 
 ## Live Demo
 
-> Deploy on Netlify — [netlify.com](https://campussplit.netlify.app/)
+> Deploy on Netlify — https://campussplit.netlify.app/
 
 ---
 
